@@ -34,8 +34,8 @@
             </div>
             <div class="col text-center">
                 <button class="btn btn-md btn-warning" 
-                        v-on:click="deleteCompleted" >
-                        Delete Completed>
+                        v-on:click="deleteCompleted"> 
+                        Delete Completed
                 </button>
             </div>
             <div class="row bg-secondary py-2 mt-2 text-white">
